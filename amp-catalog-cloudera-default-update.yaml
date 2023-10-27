@@ -1,7 +1,7 @@
 name: Cloudera
 
 entries:
-  - title: Structural Time Series(David's Version)
+  - title: Structural Time Series(David's Version2)
     label: structural-time-series
     short_description: Applying a structural time series approach to California hourly electricity demand data.
     long_description: >-
